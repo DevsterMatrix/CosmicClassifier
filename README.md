@@ -1,3 +1,4 @@
+# Cosmic Classifier
 Data Preprocessing and Model Training Summary
 1. Importing the Necessary Libraries and Dataset
 The first step involved importing all the essential Python libraries required for data analysis, preprocessing, and model training. This included libraries such as pandas, numpy, and matplotlib for data manipulation and visualization, as well as scikit-learn, XGBoost, and TensorFlow/Keras for machine learning and deep learning model implementation. Additionally, we loaded the dataset from the provided CSV file to begin the preprocessing phase.
