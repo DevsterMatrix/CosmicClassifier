@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f11fda9-ceac-4e61-a3f6-b1d8516e278a)# CosmicClassifier
+# CosmicClassifier
 **Importing the necessities**
 We first imported all the libraries and required csv file
 **Handling the missing values **
